@@ -1,4 +1,3 @@
-package assignment_one;
 
 public class Prog6 {
 
