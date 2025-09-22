@@ -1,4 +1,4 @@
-package lab11.prob2;
+package lab8.prob2;
 
 //DO NOT MODIFY IN ANY WAY
 public class Employee {

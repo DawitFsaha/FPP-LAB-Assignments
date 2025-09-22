@@ -1,4 +1,4 @@
-package lab11.Prob3;
+package lab8.Prob3;
 
 public class TestLibrary {
     public static void main(String[] args) {

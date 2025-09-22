@@ -1,4 +1,4 @@
-package lab11.Prob3;
+package lab8.Prob3;
 
 class Book {
     private String ISBN;

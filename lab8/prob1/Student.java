@@ -1,4 +1,4 @@
-package lab11.prob1;
+package lab8.prob1;
 
 public class Student {
 	private String firstName;
